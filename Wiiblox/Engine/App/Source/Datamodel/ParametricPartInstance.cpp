@@ -1,0 +1,35 @@
+﻿#include "stdafx.h"
+
+#include "V8DataModel/ParametricPartInstance.h"
+#include "V8World/Primitive.h"
+#include "V8World/Poly.h"
+
+namespace WBX
+{
+namespace PART
+{
+
+const char* const sWedge = "WedgePart";
+
+ParametricPartInstance::ParametricPartInstance()
+{
+}
+
+ParametricPartInstance::~ParametricPartInstance()
+{
+}
+
+Wedge::Wedge()
+{
+	setName("Wedge");
+	Primitive* myPrim = this->getPartPrimitive();
+	myPrim->setGeometryType(Geometry::GEOMETRY_WEDGE);
+	myPrim->setSurfaceType(NORM_Y, NO_SURFACE);
+}
+
+Wedge::~Wedge()
+{
+}
+
+
+}} //namespace

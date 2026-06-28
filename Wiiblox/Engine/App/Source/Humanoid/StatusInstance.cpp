@@ -1,0 +1,19 @@
+﻿#include "stdafx.h"
+#include "Humanoid/StatusInstance.h"
+
+namespace WBX {
+
+const char* const sStatusInstance = "Status";
+
+StatusInstance::StatusInstance() 
+	:Super()
+{
+	setName(sStatusInstance);
+	lockName();
+}
+bool StatusInstance::askSetParent(const Instance* instance) const
+{
+	return false;
+}
+
+}
