@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/jRSTKN4JMx"><img alt="Discord" src="https://img.shields.io/discord/1391832426048651334?style=flat-square&label=discord" /></a>
+  <a href="https://discord.gg/jRSTKN4JMx"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 Socializing, playing and creating.
