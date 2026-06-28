@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://www.wiiblox.com/images/signup/39ae3ca577c8488487ef492031b8e264.png" alt="Wiiblox" width="100%">
+  <a href="https://www.wiiblox.com">
+    <img src="https://www.wiiblox.com/images/signup/39ae3ca577c8488487ef492031b8e264.png" alt="Wiiblox" width="85%">
+  </a>
 </p>
 
 # Wiiblox
