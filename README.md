@@ -6,6 +6,8 @@
 
 Socializing, playing and creating.
 
+<a href="https://discord.gg/jRSTKN4JMx"><img alt="Discord" src="https://img.shields.io/discord/1391832426048651334?style=flat-square&label=discord" /></a>
+
 What is this? Wiiblox or WBX is an multiplayer platform for socializing, playing and creating.
 And **THIS** is basically the source code so you can tweak it and aprimorize as much as you want!
 Some parts of the src will not be included. For security reasons, website too!
